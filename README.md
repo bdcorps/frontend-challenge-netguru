@@ -12,7 +12,7 @@ ScrollSpy
 FontAwesome
 
 How it looks
-![Alt text](/screenshots/screenshot-web.png?raw=true)
+![Alt text](/screenshots/screenshot-full.png?raw=true)
 
 How it looks on mobile
 ![Alt text](/screenshots/screenshot-mobile.png?raw=true)
